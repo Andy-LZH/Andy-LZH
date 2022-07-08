@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Sorry that the page is still under construction
+### page under construction
 
 <!--
 **Andy-LZH/Andy-LZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
