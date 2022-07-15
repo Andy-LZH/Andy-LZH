@@ -5,11 +5,11 @@ I'm a Software Engineer, Q Arabica Grader, Photographer, and hopefully add more 
 #### Projects Open-Sourced on Github
 
 ### Mobile
-1. - [Collimate](https://github.com/Collimate)
+1.[Collimate](https://github.com/Collimate)
 ### DL/ML
 1. DeepCoffee
-    Model: [GPT-3-Coffee](https://andy-lzh.github.io/DeepCoffee/)
-    UI: - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/)
+    - [GPT-3-Coffee](https://andy-lzh.github.io/DeepCoffee/)
+    - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/)
 
 <!--
 **Andy-LZH/Andy-LZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
