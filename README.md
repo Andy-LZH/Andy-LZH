@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-### page under construction
+### Some Fun Projects
+- Full Stack
+RoastPic
 
+- Web App + DL/ML
+[DeepCoffee](https://andy-lzh.github.io/DeepCoffee/)
 <!--
 **Andy-LZH/Andy-LZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
