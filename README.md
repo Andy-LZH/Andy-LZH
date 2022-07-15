@@ -7,7 +7,7 @@ I'm a Software Engineer, Q Arabica Grader, Photographer, and hopefully add more 
 #### Mobile
 1. [Collimate](https://github.com/Collimate) (React Native, Firebase, iOS, Android)
 #### DL/ML
-1. Deep Coffee - Specialty Coffee Flavor Prediction 
+1. Specialty Coffee Flavor Prediction 
     - [GPT-3-Coffee](https://andy-lzh.github.io/DeepCoffee/) (Python, OpenAI, Weights&Biases)
     - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/) (TypeScript, React, Material Design, OpenAI API)
 
