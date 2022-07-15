@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### Some Fun Projects
+I'm a Software Engineer, Q Arabica Grader, Photographer, and hopefully add more roles to this page in the future.
+
+## Projects Open-Sourced on Github
 ### Full Stack
 - RoastPic
 
