@@ -4,9 +4,9 @@ I'm a Software Engineer, Q Arabica Grader, Photographer, and hopefully add more 
 
 #### Projects Open-Sourced on Github
 
-### Mobile
+#### Mobile
 1. [Collimate](https://github.com/Collimate) (React Native, Firebase, iOS, Android)
-### DL/ML
+#### DL/ML
 1. DeepCoffee 
     - [GPT-3-Coffee](https://andy-lzh.github.io/DeepCoffee/) (Python, OpenAI, Weights&Biases)
     - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/) (TypeScript, React, Material Design, OpenAI API)
