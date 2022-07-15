@@ -9,7 +9,7 @@ I'm a Software Engineer, Q Arabica Grader, Photographer, and hopefully add more 
 #### DL/ML
 1. Specialty Coffee Flavor Prediction 
     - [GPT-3-Coffee](https://andy-lzh.github.io/DeepCoffee/) (Python, OpenAI, Weights&Biases)
-    - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/) (TypeScript, React.js, Material Design, OpenAI API)
+    - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/) (TypeScript, React, Material Design, OpenAI API)
 
 <!--
 **Andy-LZH/Andy-LZH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
