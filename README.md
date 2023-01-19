@@ -4,9 +4,9 @@ I'm a Software Engineer, Q Arabica Grader, Photographer, and hopefully will add 
 
 #### Projects Open-Sourced on Github
 
-### Mobile
+#### Mobile
 1. [Collimate](https://github.com/Collimate) (React Native, Firebase, iOS, Android)
-### DL/ML:CV/NLP
+#### DL/ML: CV/NLP
 1. Specialty Coffee Flavor Prediction 
     - [GPT-3-Coffee](https://github.com/Andy-LZH/GPT-3-Coffee) (Python, OpenAI, Weights & Biases)
     - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/) (TypeScript, React, Material UI, OpenAI API)
