@@ -6,7 +6,7 @@ I'm a Software Engineer, Q Arabica Grader, Photographer, and hopefully will add 
 
 #### Mobile
 1. [Collimate](https://ithub.com/Collimate) (React Native, Firebase, iOS, Android)
-#### AI/DL/CV/NLP
+#### DL/ML: CV & NLP
 1. Text Generation: Specialty Coffee Flavor Prediction 
     - [GPT-3-Coffee](https://github.com/Andy-LZH/GPT-3-Coffee) (Python, OpenAI, Weights & Biases)
     - [DeepCoffee](https://andy-lzh.github.io/DeepCoffee/) (TypeScript, React, Material UI, OpenAI API)
